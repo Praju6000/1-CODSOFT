@@ -6,13 +6,13 @@
     text-align: center;
     font-size: 30px;
     font-family:sans-serif;
-    color: white;
+    color: black;
 }
 .paragraph2{
     text-align:center;
-    font-size: 100px;
+    font-size: 40px;
     font-family: nos;
-    color: white;
+    color: black;
 }
 .menu-bar
 {
@@ -38,35 +38,18 @@ background-color: #000000;
 
     background: floralwhite;
     color: #000000;
-    border-radius:3px;
+    border-radius:2cap;
 }
 .paragraph5{
     font-size: 20px;
-    font-family:Courier;
-    margin: 30px;
-    color: white;
-}
-
-
-
-.lets-go-btn{
-    color: floralwhite;
-    background: rgb(227, 26, 26);
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 1000;
-    letter-spacing: 5px;
-    border-radius: 5px;
-    padding: 10px 20px;
-    margin-left: -15px; 
-}
-.lets-go-btn:hover{
-    background: rgb(54, 1, 1);
+    font-family:middle;
+    margin: 35cap;
+    color: black;
 }
 
 .icons{
     display: flex;
-    font-size: 3rem;
+    font-size: 2rem;
     margin-top:0;
     line-height: 0;
     align-items: flex-end;
@@ -76,19 +59,19 @@ background-color: #000000;
     
 }
 
-.icons a { margin-right:75px; }
+.icons a { margin-right:45px; }
 
 .icons :hover{
     transform: scale(1.5);
 }
 
 .footer{
-    background-color:black;
-    margin-top:28%;
+    background-color:white;
+    margin-top:20%;
 }
 .p1{
-    color: floralwhite;
-    font-size: larger;
+    color: black;
+    font-size: medium;
     padding-bottom: 10px;
     
 }
